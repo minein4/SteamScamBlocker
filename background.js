@@ -399,7 +399,37 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.csgo-workshop.net/*",
                 "*://*.facecups.net/*",
                 "*://*.tf2riches.com/*",
-                "*://*.scam.example/*"               
+                "*://*.scam.example/*",
+                "*://*.faceit-ranked.com/*",
+                "*://*.rival-winners.com/*",
+                "*://*.eplay-dota2.com/*",
+                "*://*.rival-gamers.com/*",
+                "*://*.weplay-meta.com/*",
+                "*://*.rival-portals.com/*",
+                "*://*.rival-champion.com/*",
+                "*://*.weplay-champion.com/*",
+                "*://*.weplay-cybersports.com/*",
+                "*://*.faceit-ranked.com/*",
+                "*://*.faceit-match.com/*",
+                "*://*.weplay-score.com/*",
+                "*://*.servers-rust.com/*",
+                "*://*.faceit-tv.com/*",
+                "*://*.weplay-nation.com/*",
+                "*://*.weplay-kings.com/*",
+                "*://*.weplay-jr.com/*",
+                "*://*.weplay-level.com/*",
+                "*://*.weplay-skill.com/*",
+                "*://*.weplay-live.com/*",
+                "*://*.weplay-starts.xyz/*",
+                "*://*.weplay-level.online/*",
+                "*://*.rust-game-servers.com/*",
+                "*://*.weplay-rankings.com/*",
+                "*://*.cyber-weplay.com/*",
+                "*://*.weplay-complete.com/*",
+                "*://*.rival-game.online/*",
+                "*://*.rivals-play.online/*",
+                "*://*.rival-play.online/*"
+
 
                 
                  
