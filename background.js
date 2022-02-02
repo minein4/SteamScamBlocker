@@ -398,7 +398,8 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.affixsports.net/*",
                 "*://*.csgo-workshop.net/*",
                 "*://*.facecups.net/*",
-                "*://*.tf2riches.com/*"                
+                "*://*.tf2riches.com/*",
+                "*://*.scam.example/*"               
 
                 
                  
