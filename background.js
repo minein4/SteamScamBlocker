@@ -428,8 +428,8 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.weplay-complete.com/*",
                 "*://*.rival-game.online/*",
                 "*://*.rivals-play.online/*",
-                "*://*.rival-play.online/*"
-
+                "*://*.rival-play.online/*",
+                "*://*.steamncommunlity.com/*"
 
                 
                  
