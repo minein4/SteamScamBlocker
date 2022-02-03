@@ -471,7 +471,14 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.evo-playerclubs.com/*",
                 "*://*.evo-playerclub.com/*",
                 "*://*.evo-gamesclubs.com/*",
-                "*://*.evo-extremecups.com/*"
+                "*://*.evo-extremecups.com/*",
+                "*://*.steamcommulty.com/*",
+                "*://*.steamcomumunty.com/*",
+                "*://*.steamconunlty.online/*",
+                "*://*.dlscard.online/*",
+                "*://*.steancommuniiti.xyz/*",
+                "*://*.steamncomnmunlty.com/*",
+                "*://*.steamcomunnlty.com/*"
 
 
                 
