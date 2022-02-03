@@ -478,7 +478,9 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.dlscard.online/*",
                 "*://*.steancommuniiti.xyz/*",
                 "*://*.steamncomnmunlty.com/*",
-                "*://*.steamcomunnlty.com/*"
+                "*://*.steamcomunnlty.com/*",
+                "*://*.weplay-blue.com/*"
+
 
 
                 
