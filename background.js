@@ -486,7 +486,9 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.rusty-escape.com/*",
                 "*://*.weplay-spring.com/*",
                 "*://*.weplay-now.com/*",
-                "*://*.steamcommuneity.ru/*"
+                "*://*.steamcommuneity.ru/*",
+                "*://*.nitrodiscord.site/*",
+                "*://*.steamcommunitly.xyz/*"
 
 
 
