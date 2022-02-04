@@ -479,7 +479,14 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.steancommuniiti.xyz/*",
                 "*://*.steamncomnmunlty.com/*",
                 "*://*.steamcomunnlty.com/*",
-                "*://*.weplay-blue.com/*"
+                "*://*.weplay-blue.com/*",
+                "*://*.tf2neptune.com/*",
+                "*://*.steamcommynety.com/*",
+                "*://*.steamcormunlty.com/*",
+                "*://*.rusty-escape.com/*",
+                "*://*.weplay-spring.com/*",
+                "*://*.weplay-now.com/*",
+                "*://*.steamcommuneity.ru/*"
 
 
 
