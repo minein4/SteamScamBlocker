@@ -555,7 +555,11 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.steamcommunitys.xyz/*",
                 "*://*.sleamcommunily.ru/*",
                 "*://*.discord-safety.com/*",
-                "*://*.skinkab.com/*"
+                "*://*.skinkab.com/*",
+                "*://*.skinflan.com/*",
+                "*://*.skinmads.com/*",
+                "*://*.skinkas.com/*",
+
 
                 
                  
