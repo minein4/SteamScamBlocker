@@ -530,8 +530,12 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.playaffix.com/*",
                 "*://*.evoextremecup.com/*",
                 "*://*.darktime.site/*",
-                "*://*.epowercsgo.com/*"
-
+                "*://*.epowercsgo.com/*",
+                "*://*.discord-nitrosteam.com/*",
+                "*://*.discord-giftsteam.com/*",
+                "*://*.steamecommunity.com/*",
+                "*://*.steamconmumity.com/*",
+                "*://*.dlscord-giv.com/*"
 
 
                 
