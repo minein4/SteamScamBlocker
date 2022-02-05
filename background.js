@@ -535,8 +535,27 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.discord-giftsteam.com/*",
                 "*://*.steamecommunity.com/*",
                 "*://*.steamconmumity.com/*",
-                "*://*.dlscord-giv.com/*"
-
+                "*://*.dlscord-giv.com/*",
+                "*://*.csmarkescsgo.com/*",
+                "*://*.tianshouprize.fun/*",
+                "*://*.discord-s.com/*",
+                "*://*.steamcommunitvs.com/*",
+                "*://*.discord-freegift.com/*",
+                "*://*.discordlapps.com/*",
+                "*://*.steemcomunitu.store/*",
+                "*://*.nitro-q.xyz/*",
+                "*://*.said-home.ru/*",
+                "*://*.steamcommunitvs.site/*",
+                "*://*.epowerfight.com/*",
+                "*://*.playaffix.com/*",
+                "*://*.e-giftpremium.com/*",
+                "*://*.discord-ap.com/*",
+                "*://*.steemcomunituus.net.ru/*",
+                "*://*.steanncomrnunityi.com/*",
+                "*://*.steamcommunitys.xyz/*",
+                "*://*.sleamcommunily.ru/*",
+                "*://*.discord-safety.com/*",
+                "*://*.skinkab.com/*"
 
                 
                  
