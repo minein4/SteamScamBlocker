@@ -559,6 +559,22 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.skinflan.com/*",
                 "*://*.skinmads.com/*",
                 "*://*.skinkas.com/*",
+                "*://*.sgc.digital/*",
+                "*://*.disocrd.xyz/*",
+                "*://*.emetaleague.com/*",
+                "*://*.razertech.live/*",
+                "*://*.csgo-battle.com/*",
+                "*://*.nitro-dlscord.xyz/*",
+                "*://*.discocd.xyz/*",
+                "*://*.nitrodiscor.space/*",
+                "*://*.steamfnitro.com/*",
+                "*://*.authbattle.com/*",
+                "*://*.dlscordapps.site/*",
+                "*://*.discord-ti.com/*",
+                "*://*.marckestcgo.ru/*",
+                "*://*.discordhitro.com/*",
+                "*://*.ggez.net.ru/*",
+                "*://*.playaffix.net/*",
 
 
                 
