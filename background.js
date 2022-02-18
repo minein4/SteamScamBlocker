@@ -1091,7 +1091,7 @@ chrome.webRequest.onBeforeRequest.addListener(
         types: ["main_frame", "sub_frame", "stylesheet", "script", "image", "object", "xmlhttprequest", "other"]
     },
     ["blocking"]
-),
+);
 
 var wings = "https://valve.uk.nf/blocked/tf2wings",
 chrome.webRequest.onBeforeRequest.addListener(
