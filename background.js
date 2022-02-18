@@ -1,8 +1,8 @@
 // Hello source code looker what are you doing around here looking at my bad code,
-var host = "https://valve.uk.nf/blocked",
+var host = "https://valve.uk.nf/blocked";
 chrome.webRequest.onBeforeRequest.addListener(
     function(details) {
-         return {redirectUrl: host },
+         return {redirectUrl: host };
          
     },
     {
