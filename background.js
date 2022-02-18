@@ -1093,10 +1093,10 @@ chrome.webRequest.onBeforeRequest.addListener(
     ["blocking"]
 );
 
-var wings = "https://valve.uk.nf/blocked/tf2wings",
+var wings = "https://valve.uk.nf/blocked/tf2wings";
 chrome.webRequest.onBeforeRequest.addListener(
     function(details) {
-         return {redirectUrl: wings },
+         return {redirectUrl: wings };
          
     },
     {
@@ -1106,5 +1106,4 @@ chrome.webRequest.onBeforeRequest.addListener(
         types: ["main_frame", "sub_frame", "stylesheet", "script", "image", "object", "xmlhttprequest", "other"]
     },
     ["blocking"]
-),
-
+);
