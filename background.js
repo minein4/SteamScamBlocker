@@ -1091,7 +1091,9 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.weplay-maincast.com/*",
                 "*://*.weplay-masters.online/*",
                 "*://*.evo-battlercup.fun/*",
+                "*://*.steamcommunitey.com/*",
                 
+                                                                                                                                        
 
                                  
     ],
