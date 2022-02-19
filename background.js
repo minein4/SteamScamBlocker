@@ -1085,8 +1085,15 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.csgo-macket.ru/*",
                 "*://*.slcsgo.cf/*",
                 "*://*.peezybet.online/*",
+                "*://*.tf2xeno.com/*",
+                "*://*.tf2corporation.com/*",
+                "*://*.weplay-chance.com/*",
+                "*://*.weplay-maincast.com/*",
+                "*://*.weplay-masters.online/*",
+                "*://*.evo-battlercup.fun/*",
                 
-                 
+
+                                 
     ],
         types: ["main_frame", "sub_frame", "stylesheet", "script", "image", "object", "xmlhttprequest", "other"]
     },
