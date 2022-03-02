@@ -1199,7 +1199,7 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.ecsignpage.com/*",
                 "*://*.cstrade.farm/*",
                 "*://*.newcases.site/*",
-                "*://*.toniskins.com/*",
+                "*://*.toniskins.com/*",    
                 "*://*.cswanpro.com/*",
                 "*://*.rustdamage.com/*",
                 "*://*.globby-tournament.com/*",
@@ -1236,6 +1236,10 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.makee-csgo.ru/*",
                 "*://*.csgomakcom.ru/*",
                 "*://*.makeo-csgo.ru/*",
+                "*://*.free-discord.site/*",
+                "*://*.discorde-gg.com/*",
+                
+
                 
 
                                                                                                                                         
