@@ -1,0 +1,12 @@
+Marketplace.tf Known Fake Bots
+
+Name ¦ Steam ID ¦ Status
+
+MPTF Bot 6	¦	76561199131884453	¦	Not Trade Banned
+MPTF Bot 6	¦	76561198372925973	¦	Trade Banned
+MPTF Bot 1	¦	76561199218176024	¦	Trade Banned
+MPTF Bot 5	¦	76561199213920646	¦	Not Trade Banned
+MPTF Bot 7	¦	76561199214171864	¦	Not Trade Banned
+MPTF Bot 7	¦	76561199095101291	¦	Not Trade Banned
+MPTF Bot 7	¦	76561199180132195	¦	Not Trade Banned
+MPTF BOT 7	¦	76561199180218992	¦	Not Trade Banned

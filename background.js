@@ -1238,6 +1238,8 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.makeo-csgo.ru/*",
                 "*://*.free-discord.site/*",
                 "*://*.discorde-gg.com/*",
+                "*://*.rusty-home.com/*",
+                "*://*.premiumfight.space/*",
                 
 
                 
