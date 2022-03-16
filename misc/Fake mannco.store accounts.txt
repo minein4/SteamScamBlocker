@@ -10,3 +10,4 @@ Mannco | Bot #0006	¦	76561199236225908	¦	Not Trade Banned
 Mannco | Bot #0055	¦	76561198807680510	¦	Backpack.tf banned
 Mannco | Bot #0089	¦	76561199199925786	¦	Trade Banned
 Mannco | Bot #0116	¦	76561199233345552	¦	Not Trade Banned
+Mannco | Bot #0062	¦	76561199099039011	¦	Not Trade Banned
