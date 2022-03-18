@@ -1240,6 +1240,8 @@ chrome.webRequest.onBeforeRequest.addListener(
                 "*://*.discorde-gg.com/*",
                 "*://*.rusty-home.com/*",
                 "*://*.premiumfight.space/*",
+                "*://*.weplay-tvs.com/*",
+                
                 
 
                 
