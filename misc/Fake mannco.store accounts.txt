@@ -2,8 +2,8 @@ Mannco.store Known Fake Bots
 
 Name ¦ Steam ID ¦ Status
 
-Mannco Moderator	¦	76561199131371659	¦	trade banned
-Mannco | Bot #0006	¦	76561199159137455	¦	trade banned
+Mannco Moderator	¦	76561199131371659	¦	Trade Probation
+Mannco | Bot #0006	¦	76561199159137455	¦	Trade Banned
 Mannco | Bot #0012	¦	76561199161149170	¦	Backpack.tf banned
 Mannco | Bot #0160	¦	76561199131884453	¦	Not Trade Banned
 Mannco | Bot #0006	¦	76561199236225908	¦	Not Trade Banned
